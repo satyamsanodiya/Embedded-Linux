@@ -416,18 +416,3 @@ This confirms that:
 
 ---
 
-# Repository Structure
-
-```text
-04_Python_Socket_Programming/
-│
-├── README.md
-├── Images/
-│   ├── client_program.png
-│   ├── server_program.png
-│   └── practical_output.png
-│
-└── Source_Code/
-    ├── client.py
-    └── server.py
-```
